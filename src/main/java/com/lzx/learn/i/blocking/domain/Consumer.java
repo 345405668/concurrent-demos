@@ -1,4 +1,4 @@
-package com.lzx.learn.blocking.domain;
+package com.lzx.learn.i.blocking.domain;
 
 /**
  * Created by luozhixin on 14-9-11.

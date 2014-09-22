@@ -1,4 +1,4 @@
-package com.lzx.learn.blocking.BlockingQueue;
+package com.lzx.learn.i.blocking.BlockingQueue;
 
 import java.util.concurrent.*;
 

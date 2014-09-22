@@ -1,11 +1,9 @@
-package com.lzx.learn.blocking.BlockingQueue;
+package com.lzx.learn.i.blocking.BlockingQueue;
 
-import com.lzx.learn.blocking.domain.Consumer;
-import com.lzx.learn.blocking.domain.Producer;
+import com.lzx.learn.i.blocking.domain.Consumer;
+import com.lzx.learn.i.blocking.domain.Producer;
 
-import java.util.Random;
 import java.util.concurrent.*;
-import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * Created by luozhixin on 14-9-11.

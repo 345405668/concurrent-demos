@@ -1,7 +1,7 @@
-package com.lzx.learn.blocking.BlockingQueue;
+package com.lzx.learn.i.blocking.BlockingQueue;
 
-import com.lzx.learn.blocking.domain.PrioritizedTaskConsumer;
-import com.lzx.learn.blocking.domain.PrioritizedTaskProducer;
+import com.lzx.learn.i.blocking.domain.PrioritizedTaskConsumer;
+import com.lzx.learn.i.blocking.domain.PrioritizedTaskProducer;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

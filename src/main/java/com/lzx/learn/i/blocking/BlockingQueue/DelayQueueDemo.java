@@ -1,4 +1,4 @@
-package com.lzx.learn.blocking.BlockingQueue;
+package com.lzx.learn.i.blocking.BlockingQueue;
 
 /**
  * Created by luozhixin on 14-9-11.
@@ -7,21 +7,13 @@ package com.lzx.learn.blocking.BlockingQueue;
  * http://download.oracle.com/technetwork/java/javase/6/docs/zh/api/java/util/concurrent/DelayQueue.html
  */
 
-import com.lzx.learn.blocking.domain.Student;
-import com.lzx.learn.blocking.domain.Teacher;
+import com.lzx.learn.i.blocking.domain.Student;
+import com.lzx.learn.i.blocking.domain.Teacher;
 
 import java.util.concurrent.Executors;
 import java.util.Random;
 import java.util.concurrent.DelayQueue;
-import java.util.concurrent.Delayed;
 import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.TimeUnit;
-
-
-
-
-
 
 
 public class DelayQueueDemo {

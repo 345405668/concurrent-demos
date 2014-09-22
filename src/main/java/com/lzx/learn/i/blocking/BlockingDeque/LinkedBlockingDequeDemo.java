@@ -1,7 +1,6 @@
-package com.lzx.learn.blocking.BlockingDeque;
+package com.lzx.learn.i.blocking.BlockingDeque;
 
 import java.util.Iterator;
-import java.util.LinkedList;
 import java.util.Queue;
 import java.util.concurrent.LinkedBlockingDeque;
 

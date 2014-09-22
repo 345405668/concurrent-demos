@@ -1,4 +1,4 @@
-package com.lzx.learn.blocking.BlockingDeque;
+package com.lzx.learn.i.blocking.BlockingDeque;
 
 /**
  * Created by luozhixin on 14-9-10.

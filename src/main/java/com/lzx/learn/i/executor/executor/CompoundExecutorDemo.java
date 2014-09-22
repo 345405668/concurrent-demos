@@ -1,4 +1,4 @@
-package com.lzx.learn.executor.executor;
+package com.lzx.learn.i.executor.executor;
 
 import java.util.Queue;
 import java.util.concurrent.Executor;

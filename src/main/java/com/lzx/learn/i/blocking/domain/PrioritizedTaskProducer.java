@@ -1,9 +1,8 @@
-package com.lzx.learn.blocking.domain;
+package com.lzx.learn.i.blocking.domain;
 
 import java.util.Queue;
 import java.util.Random;
 import java.util.concurrent.ExecutorService;
-import java.util.concurrent.PriorityBlockingQueue;
 import java.util.concurrent.TimeUnit;
 
 /**

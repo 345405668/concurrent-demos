@@ -1,4 +1,4 @@
-package com.lzx.learn.blocking.BlockingQueue;
+package com.lzx.learn.i.blocking.BlockingQueue;
 
 /**
  * Created by luozhixin on 14-9-10.

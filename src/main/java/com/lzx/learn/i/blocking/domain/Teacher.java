@@ -1,4 +1,4 @@
-package com.lzx.learn.blocking.domain;
+package com.lzx.learn.i.blocking.domain;
 
 import java.util.concurrent.DelayQueue;
 import java.util.concurrent.ExecutorService;
