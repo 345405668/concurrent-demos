@@ -9,7 +9,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * Created by luozhixin on 15/1/21.
  * http://tool.oschina.net/uploads/apidocs/jdk-zh/java/util/concurrent/ThreadFactory.html
- *
+ * 根据需要创建新线程的对象。使用线程工厂就无需再手工编写对 new Thread 的调用了，从而允许应用程序使用特殊的线程子类、属性等等。
  */
 public class ThreadFactoryDemo {
     static class WorkThread extends Thread {
